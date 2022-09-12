@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nmosesgo
+- 👀 I’m interested in Agriculture Technology, Uncrewed Aircraft Systems, Machine Learning, Internet of Things.
+- 🌱 I’m currently learning to integrate sensors into fire mitigation. 
+- 💞️ I’m looking to collaborate on trustworthy AI development for sustainable agriculture.
+- 📫 How to reach me linkedIn
